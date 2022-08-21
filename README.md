@@ -1,5 +1,3 @@
-# drf_simple_blog
-DRF + Docker + PostgreSQL 
+# Django Postgres Docker
 
-
-docker-compose exec web python ./simple_blog/manage.py migrate --noinput
+Этот проект является тернировкой по работе с Docker и Docker-compose
